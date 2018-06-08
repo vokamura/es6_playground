@@ -5,6 +5,7 @@ module.exports = {
     entry: [
         './app/index.js'
     ],
+    mode: 'development',
     devtool: 'inline-source-map',
     output: {
         filename: 'bundle.js',

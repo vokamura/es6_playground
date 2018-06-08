@@ -11,12 +11,12 @@
   "author": "Scott Bowler",
   "license": "ISC",
   "devDependencies": {
-    "babel-core": "^6.24.1",
-    "babel-loader": "^7.0.0",
-    "babel-preset-env": "^1.4.0",
-    "express": "^4.15.2",
-    "webpack": "^2.4.1",
-    "webpack-dev-middleware": "^1.10.2"
+    "babel-core": "^6.26.3",
+    "babel-loader": "^7.1.4",
+    "babel-preset-env": "^1.7.0",
+    "express": "^4.16.3",
+    "webpack": "^4.12.0",
+    "webpack-dev-middleware": "^3.1.3"
   },
   "dependencies": {}
 }
