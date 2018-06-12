@@ -1,1 +1,8 @@
-console.log('App working: open app/index.js to start exploring ES6');
+import {addParagraph} from './helpers';
+import SuperPerson from './person';
+
+const vikki = new SuperPerson('Vikki', 'flying');
+
+addParagraph(vikki.talk('Yo yo yo'));
+
+addParagraph(vikki.saySuperpower('invisible'));
